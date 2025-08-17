@@ -5,5 +5,5 @@ Welcome to my 100 Days of Python learning journey! I am committed to fulfilling 
 --- Project Logs ---
 | Day | Project Name | Concepts Learned |
 |---|---|---|
-1 | Day 5 [Marvel character quiz](./Day%205/Replit%20Day%205%20Challenge.py)/ [Simple login program](./Day%205/Replit%20Day%205%20Log%20in.py)
-2 |
+5 | [Marvel character quiz](./Day%205/Replit%20Day%205%20Challenge.py)/ [Simple login program](./Day%205/Replit%20Day%205%20Log%20in.py) | if/else statements foundation
+
