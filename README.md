@@ -9,3 +9,4 @@ Welcome to my 100 Days of Python learning journey! I am committed to fulfilling 
 |6 | [Simple login using Elif](./Day%206/Day%206%20Elif%20Login.py) | Implemented elif to the previous simple login program.|
 |7| [Fun Fake Fan Finder game](./Day%207/Day%207%20Fake%20fan%20fidner%20game.py) | Learned how to use nested statements.|
 |9| [Generation Tracker game](./Day%209/Day%209%20Generation%20tracker) | First time using int and float in python!|
+|10| [Tip calculator](./Day%2010/Day%2010%20Tip%20calculator) | First time performing calculations inside python.|
