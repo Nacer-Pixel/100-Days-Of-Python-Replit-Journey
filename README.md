@@ -12,3 +12,4 @@ Welcome to my 100 Days of Python learning journey! I am committed to fulfilling 
 |10| [Tip calculator](./Day%2010/Day%2010%20Tip%20calculator.py) | First time performing calculations inside python.|
 |13| [Exam calculator](./Day%2013/Day%2013%20Exam%20Calculator.py) | Fun grade calculator.|
 |14| [Rock Paper Scissors](./Day%2014/Day%2014%20Rock%20Paper%20Scissors%20Game.py) | Fun series of possibilities implemented|
+|15| [Animal sounds game](./Day%2015/Day%2015%20Animals%20sounds%20game.py) | First time using while loops|
