@@ -14,3 +14,4 @@ Welcome to my 100 Days of Python learning journey! I am committed to fulfilling 
 |14| [Rock Paper Scissors](./Day%2014/Day%2014%20Rock%20Paper%20Scissors%20Game.py) | Fun series of possibilities implemented|
 |15| [Animal sounds game](./Day%2015/Day%2015%20Animals%20sounds%20game.py) | First time using while loops|
 |16| [Twenty one pilots fan detector](./Day%2016/Day%2016%20TwentyOnePilots%20fan%20game.py) | Learned and implemented while true loops|
+|17| [Upgraded Rock Paper Scissors](./Day%2017/Day%2017%20Rock%20Paper%20Scissors%20with%20continue.py) | First time using exit and continue!|
