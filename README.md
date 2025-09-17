@@ -18,5 +18,5 @@ Welcome to my 100 Days of Python learning journey! I am committed to fulfilling 
 |18| [Number Guessing game](./Day%2018/Day%2018%20Number%20Guessing%20game.py) | Fun number guessing game!|
 |19| [Loan Calculator](./Day%2018/Day%2018%20Number%20Guessing%20game.py) | Learned to use for loop and range.|
 |21| [Math game](./Day%2021/Day%2021%20Math%20Game.py) | Replit challenge #21|
-|| [](./) | |
+|22| [Guessing game update](./Day%2022/Day%2022%20Guessing%20game%20update.py) | First time using random library|
 || [](./) | |
