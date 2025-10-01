@@ -22,5 +22,6 @@ Welcome to my 100 Days of Python learning journey! I am committed to fulfilling 
 |25| [Stats Generator](./Day%2025/Day%2025%20Character%20stat%20generator.py) | Created and implemendted subroutines|
 |25| [Rock Paper Scissors against Robot](./Day%2025/Day%2025%20Rock%20Paper%20Scissors%20VS%20robot.py) | Fun game against program|
 |28| [Character battle game](./Day%2028/Day%2028%20Character%20Battle%20game.py) | Mixture of libraries and built in features|
+|32| [Greetings from all over the world](./Day%2032/Day%2032%20Greetings%20all%20over%20the%20globe.py) | First time using lists|
 || [](./) | |
 || [](./) | |
