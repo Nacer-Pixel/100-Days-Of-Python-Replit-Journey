@@ -25,5 +25,10 @@ Welcome to my 100 Days of Python learning journey! I am committed to fulfilling 
 |32| [Greetings from all over the world](./Day%2032/Day%2032%20Greetings%20all%20over%20the%20globe.py) | First time using lists|
 |35| [Todo list manager](./Day%2035/Day%2035%20functional%20todo%20list.py) | Implemented lists into a functional tool|
 |38| [Rainbow text game](./Day%2038/Day%2038%20fun%20rainbow%20game.py) | First time using slicing|
+|39| [Hangman](./Day%2039/Hangman) | Mixture of slicing and list manipulation|
+|44| [Bingo](./Day%2044/Bingo.py) | Fully functional bingo using 2D lists|
+|45| [Improved todo list manager](./Day%2045/Improved%20todo%20manager.py) | Implemented 2D lists|
+|46| [Mokedex](./Day%2046/Mokedex.py) | First time using dictionaries|
+|47| [Attack on Titan Top trumps](./Day%2047/Top%20trumps%20(Attack%20on%20titan).py) | Fun Top trumps mini game|
 || [](./) | |
 || [](./) | |
