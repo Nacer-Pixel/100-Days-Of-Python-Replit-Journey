@@ -30,5 +30,8 @@ Welcome to my 100 Days of Python learning journey! I am committed to fulfilling 
 |45| [Improved todo list manager](./Day%2045/Improved%20todo%20manager.py) | Implemented 2D lists|
 |46| [Mokedex](./Day%2046/Mokedex.py) | First time using dictionaries|
 |47| [Attack on Titan Top trumps](./Day%2047/Top%20trumps%20(Attack%20on%20titan).py) | Fun Top trumps mini game|
-|| [](./) | |
+|49| [High score counter](./Day%2049/High%20score%20counter.py) | First time reading and handling data|
+|53| [RPG inventory](./Day%2053/Rpg%20inventory%20program.py) | Reactive RPG inventory manager|
+|55| [Backed up todo list](./Day%2055/Backed%20up%20todo%20list.py) | Created time based back ups|
+|57| [Factorial calculator](./Day%2057/Factorial%20calculator.py) | First time using recursion|
 || [](./) | |
