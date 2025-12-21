@@ -1,6 +1,6 @@
-# 100-Days-of-Python-Replit-Journey 🚀
+# 50-Days-of-Python-Replit-Journey 🚀
 
-Welcome to my 100 Days of Python learning journey! I am committed to fulfilling this challenge by building and sharing multiple mini-projects. Each project is in its own folder, organized by the day it was created.
+Welcome to my 50 Days of Python learning journey! I am committed to fulfilling this challenge by building and sharing multiple mini-projects. Each project is in its own folder, organized by the day it was created.
 
 --- Project Logs ---
 | Day | Project Name | Concepts Learned |
@@ -17,7 +17,7 @@ Welcome to my 100 Days of Python learning journey! I am committed to fulfilling 
 |17| [Upgraded Rock Paper Scissors](./Day%2017/Day%2017%20Rock%20Paper%20Scissors%20with%20continue.py) | First time using exit and continue!|
 |18| [Number Guessing game](./Day%2018/Day%2018%20Number%20Guessing%20game.py) | Fun number guessing game!|
 |19| [Loan Calculator](./Day%2018/Day%2018%20Number%20Guessing%20game.py) | Learned to use for loop and range.|
-|21| [Math game](./Day%2021/Day%2021%20Math%20Game.py) | Replit challenge #21|
+|21| [Math game](./Day%2021/Day%2021%20Math%20Game.py) | Fun mathemathical game|
 |22| [Guessing game update](./Day%2022/Day%2022%20Guessing%20game%20update.py) | First time using random library|
 |25| [Stats Generator](./Day%2025/Day%2025%20Character%20stat%20generator.py) | Created and implemendted subroutines|
 |25| [Rock Paper Scissors against Robot](./Day%2025/Day%2025%20Rock%20Paper%20Scissors%20VS%20robot.py) | Fun game against program|
@@ -26,12 +26,11 @@ Welcome to my 100 Days of Python learning journey! I am committed to fulfilling 
 |35| [Todo list manager](./Day%2035/Day%2035%20functional%20todo%20list.py) | Implemented lists into a functional tool|
 |38| [Rainbow text game](./Day%2038/Day%2038%20fun%20rainbow%20game.py) | First time using slicing|
 |39| [Hangman](./Day%2039/Hangman) | Mixture of slicing and list manipulation|
-|44| [Bingo](./Day%2044/Bingo.py) | Fully functional bingo using 2D lists|
-|45| [Improved todo list manager](./Day%2045/Improved%20todo%20manager.py) | Implemented 2D lists|
-|46| [Mokedex](./Day%2046/Mokedex.py) | First time using dictionaries|
-|47| [Attack on Titan Top trumps](./Day%2047/Top%20trumps%20(Attack%20on%20titan).py) | Fun Top trumps mini game|
-|49| [High score counter](./Day%2049/High%20score%20counter.py) | First time reading and handling data|
-|53| [RPG inventory](./Day%2053/Rpg%20inventory%20program.py) | Reactive RPG inventory manager|
-|55| [Backed up todo list](./Day%2055/Backed%20up%20todo%20list.py) | Created time based back ups|
-|57| [Factorial calculator](./Day%2057/Factorial%20calculator.py) | First time using recursion|
-|| [](./) | |
+|40| [Bingo](./Day%2044/Bingo.py) | Fully functional bingo using 2D lists|
+|41| [Improved todo list manager](./Day%2045/Improved%20todo%20manager.py) | Implemented 2D lists|
+|43| [Mokedex](./Day%2046/Mokedex.py) | First time using dictionaries|
+|44| [Attack on Titan Top trumps](./Day%2047/Top%20trumps%20(Attack%20on%20titan).py) | Fun Top trumps mini game|
+|45| [High score counter](./Day%2049/High%20score%20counter.py) | First time reading and handling data|
+|47| [RPG inventory](./Day%2053/Rpg%20inventory%20program.py) | Reactive RPG inventory manager|
+|49| [Backed up todo list](./Day%2055/Backed%20up%20todo%20list.py) | Created time based back ups|
+|50| [Factorial calculator](./Day%2057/Factorial%20calculator.py) | First time using recursion|
